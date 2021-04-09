@@ -1,0 +1,1 @@
+https://ruddra.com/hugo-deploy-static-page-using-github-actions/

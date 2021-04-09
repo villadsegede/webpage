@@ -76,8 +76,4 @@ highlight_name: false
 
 Villads Egede Johansen is a researcher of light interaction with nanostructured surfaces. During his Ph.D. at Technical University of Denmark (DTU) he studied structural colours in combination with topology optimisation, and how it could be applied to designing white aluminium for Bang and Olufsen. Afterwards he studied structural colours in natural systems at University of Cambridge. One study was on how light interaction of bacterial colonies gave rise to sparkling, metallic colours, and how genetic modifications of the bacteria lead to different striking colours and appearances due to the bacteria's ability to self-arrange on a  microscale level.
 
-After a short stent as a software developer for additive manufacturing systems at Oqton, Villads joined NIL Technology to design flat optics - the next generation of superthin optics for sensors in consumer electronics and lidars for self-driving cars. This is a new field, which requires a lot of innovative thinking to obtain solutions that will work in the end products.
-
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+After a 1 year stay as a software developer for additive manufacturing systems at Oqton, Villads joined NIL Technology to design flat optics - the next generation of superthin optics for sensors in consumer electronics and lidars for self-driving cars. This is a new field, which requires a lot of innovative thinking to obtain solutions that will work in the end products.
